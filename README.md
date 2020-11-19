@@ -1,31 +1,3 @@
-
-
-### You cannot simply change the license like this im afraid. 
-# ![Unlicense_Readme](https://avatars1.githubusercontent.com/u/47577456?s=60&v=4) 
-# FOSS-Archive-License :
-
-Factual, logical and/or other inaccuracies in these Terms shall not invalidate any other component of these Terms. 
-
-If one part doesn't apply somewhere due to local laws not permitting it then assume it applies everywhere else/rest of it applies for this account and derivatives
-
-Based On WTFPL <sam@hocevar.net>
-
-                    Version 1, October 2020
-
- Copyright (C) 2020 FOSS-Archive 
-
- Everyone is permitted to copy and distribute verbatim or modified
- copies of this, and changing it is allowed.
-
-            FOSS-Archive License
-            
-   TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
-
-  0. You just DO WHAT YOU WANT TO DO.
-   
-  ---------------------------------------------------------------------------------------------------------
-
-
 # SideQuest
 Below is the documentation of SideQuest with instructions for building and signing then application.
 
